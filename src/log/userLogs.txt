@@ -30,3 +30,59 @@
  El usuario ingreó a la ruta: /products/detail
 
  El usuario ingreó a la ruta: /products
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /products/detail
+
+ El usuario ingreó a la ruta: /products
+
+ El usuario ingreó a la ruta: /products
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /services/
+
+ El usuario ingreó a la ruta: /services/desing
+
+ El usuario ingreó a la ruta: /products
+
+ El usuario ingreó a la ruta: /products/detail
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /services/desing
+
+ El usuario ingreó a la ruta: /admin?user=Juli
+
+ El usuario ingreó a la ruta: /admin?user=Ada
+
+ El usuario ingreó a la ruta: /admin?user=Fla
+
+ El usuario ingreó a la ruta: /admin?user=Nicolas
+
+ El usuario ingreó a la ruta: /admin?user=Roberto
+
+ El usuario ingreó a la ruta: /admin?user=Juan
+
+ El usuario ingreó a la ruta: /admin?user=Juancito.com123
+
+ El usuario ingreó a la ruta: /admin?user=JuliUwU123_2005
+
+ El usuario ingreó a la ruta: /admin?user=jajajaChisteProfe!
+
+ El usuario ingreó a la ruta: /admin?user=tizi
+
+ El usuario ingreó a la ruta: /admin?user=:o
+
+ El usuario ingreó a la ruta: /admin?user=Tizi
+
+ El usuario ingreó a la ruta: /admin?user=Era%20con%20mayusculas!

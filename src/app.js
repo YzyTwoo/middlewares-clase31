@@ -27,9 +27,13 @@ app.use(userLogs);
 // ************ Route System require and use() ************
 const mainRouter = require('./routes/main.js');
 const productsRouter = require('./routes/products');
+const adminRouter = require('./routes/admin.js');
+const servicesRouter = require('./routes/services.js');
+
 app.use('/', mainRouter);
 app.use('/products', productsRouter);
-
+app.use('/admin', adminRouter);
+app.use('/services', servicesRouter);
 
 
 // ************ DON'T TOUCH FROM HERE ************
