@@ -4,7 +4,7 @@ const cookieParser = require('cookie-parser');
 const express = require('express');
 const logger = require('morgan');
 const path = require('path');
-const logMiddlewareUsers = require('./middlewares/userLogs.js')
+const userLogs = require('./middlewares/userLogs');
 
 // ************ express() - (don't touch) ************
 const app = express();
@@ -21,12 +21,14 @@ app.set('view engine', 'ejs');
 app.set('views', './src/views'); // Seteo de la ubicación de la carpeta "views"
 
 // ************ middleware global ************
-// app.use(logMiddlewareUsers);
+app.use(userLogs);
 
 // ************ WRITE YOUR CODE FROM HERE ************
 // ************ Route System require and use() ************
 const mainRouter = require('./routes/main.js');
+const productsRouter = require('./routes/products');
 app.use('/', mainRouter);
+app.use('/products', productsRouter);
 
 
 

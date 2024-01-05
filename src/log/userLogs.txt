@@ -1,0 +1,32 @@
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /products
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /products
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /products/detail
+
+ El usuario ingreó a la ruta: /products
