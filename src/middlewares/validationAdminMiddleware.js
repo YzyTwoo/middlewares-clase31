@@ -1,7 +1,8 @@
-const validationAdmin = (req, res, next) => {
-    const adminUsers = ['Ada', 'Greta', 'Vim', 'Tim'];
-    const user = req.query.user
+const adminUsers = require('../dataBase/admins.json')
 
+const validationAdmin = (req, res, next) => {
+    const user = req.query.user
+    
     if(adminUsers.includes(user)){
         next()
     }else{
